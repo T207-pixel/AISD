@@ -21,4 +21,4 @@ Column* insertSortBinarySearch(Column *columns, int m);
 //***DOWNSIDES***///
 // 1) no save input
 // 2) output is shifting
-// 3) simple "keys" and surplus field "max"
+// 3) simple "keys" and field "max" is surplus
